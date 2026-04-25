@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+librosa
+soundfile
+statsmodels
+Pillow
+scikit-learn
