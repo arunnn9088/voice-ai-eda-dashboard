@@ -8,7 +8,6 @@ An end-to-end exploratory data analysis project built on real Turkish voice reco
 
 [Open the dashboard here]([https://voice-ai-eda-dashboard-fzn9bkspwevhjw8ybmpr4z.streamlit.app])
 
-*(Update this link after deploying on Streamlit Cloud)*
 
 ---
 
