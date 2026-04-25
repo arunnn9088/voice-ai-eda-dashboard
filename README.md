@@ -6,7 +6,7 @@ An end-to-end exploratory data analysis project built on real Turkish voice reco
 
 ## Live Dashboard
 
-[Open the dashboard here]([https://voice-ai-eda-dashboard-fzn9bkspwevhjw8ybmpr4z.streamlit.app])
+[Open the dashboard here](https://voice-ai-eda-dashboard-fzn9bkspwevhjw8ybmpr4z.streamlit.app)
 
 
 ---
