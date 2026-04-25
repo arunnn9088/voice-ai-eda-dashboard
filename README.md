@@ -216,8 +216,8 @@ This turns the dashboard from a static analytics tool into a voice-powered data 
 **Arunachalaeswar**
 Data Analyst — Python, Audio AI, Streamlit
 
-arunachalamc1910@gmail.com
-[LinkedIn](https://linkedin.com/in/your-profile)
+aruneswar1912@gmail.com
+[LinkedIn](www.linkedin.com/in/arunachalaeswar)
 
 ---
 
